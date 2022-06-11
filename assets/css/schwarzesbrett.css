@@ -1,0 +1,14 @@
+/* ------------------- HEADER SCHWARZESBRETT --------------------- */
+
+.headerSchwarzesbrett {
+  text-align: center;
+  padding: 55px;
+}
+
+.headerSchwarzesbrett a {
+  position: relative;
+  right: -150px;
+  top: -27px;
+}
+
+/* ------------------- MAIN SCHWARZESBRETT SECTION 1 --------------------- */
