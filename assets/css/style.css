@@ -24,6 +24,10 @@ font-family: "Rubik", sans-serif;
   --white: #fff;
   --grey: #979797;
   --black: #000;
+  --darkgrey: #313131;
+  --grey1: #9a9a9a;
+  --grey2: #424753;
+  --darkgreen: #2d4535;
 }
 
 html {

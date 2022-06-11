@@ -1,0 +1,84 @@
+/* ------------------- HEADER UNTERKUENFTE --------------------- */
+
+.headerUnterkuenfte {
+  background-image: url("../img/first/Mask.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+}
+
+.headerUnterkuenfte img {
+  margin-top: 110px;
+}
+
+/* ------------------- MAIN UNTERKUENFTE SECTION 1 --------------------- */
+
+section:nth-of-type(1) {
+  padding: 30px;
+}
+
+section:nth-of-type(1) div:nth-of-type(1) img:nth-of-type(2) {
+  margin-left: -16px;
+}
+
+section:nth-of-type(1) div:nth-of-type(1) p {
+  display: inline-block;
+  position: relative;
+  top: -15px;
+  font-family: "Hiragino Sans", "Jost", sans-serif;
+  font-size: 10px;
+  padding: 0 40px 0 10px;
+  color: var(--darkgrey);
+}
+
+section:nth-of-type(1) div:nth-of-type(1) img:last-of-type {
+  position: relative;
+  top: -10px;
+}
+
+section:nth-of-type(1) div:nth-of-type(2) {
+  margin: 20px 0;
+}
+
+section:nth-of-type(1) div:nth-of-type(2) h2 {
+  display: inline-block;
+  color: var(--darkgrey);
+}
+
+section:nth-of-type(1) div:nth-of-type(2) p:nth-of-type(1) {
+  font-family: "Rubik", sans-serif;
+  font-size: 14px;
+  display: inline-block;
+}
+
+section:nth-of-type(1) div:nth-of-type(2) p:nth-of-type(1) span {
+  font-family: "Hiragino Sans", "Jost", sans-serif;
+  font-size: 10px;
+  color: var(--grey1);
+}
+
+section:nth-of-type(1) div:nth-of-type(2) p:nth-of-type(2) {
+  font-family: "Hiragino Sans", "Jost", sans-serif;
+  font-size: 10px;
+  padding: 10px 0 0;
+}
+
+/* ------------------- MAIN UNTERKUENFTE SECTION 2 --------------------- */
+
+section:nth-of-type(2) {
+  margin: 0 20px;
+  display: flex;
+  text-align: center;
+  border: 2px solid var(--green);
+  border-radius: 8px;
+  padding: 25px 0;
+}
+
+section:nth-of-type(2) figure {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  margin: 0 auto;
+  color: var(--grey2);
+}
+
+/* ------------------- MAIN UNTERKUENFTE SECTION 3 --------------------- */
