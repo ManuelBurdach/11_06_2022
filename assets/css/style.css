@@ -22,6 +22,8 @@ font-family: "Rubik", sans-serif;
   --lightgreen: #b7d0bf;
   --orange: #ff602c;
   --white: #fff;
+  --grey: #979797;
+  --black: #000;
 }
 
 html {
@@ -46,7 +48,7 @@ h2 {
 .line {
   border-bottom: 1px solid rgba(0, 0, 0, 0.25);
   width: 100%;
-  margin: 20px 0;
+  margin: 40px 0 10px;
 }
 
 /* ------------------- HEADER GERNERAL --------------------- */
@@ -60,8 +62,9 @@ header {
 
 main {
   width: 375px;
-  height: 100vh;
+  min-height: 100vh;
   background-color: var(--lightgreen);
+  margin-bottom: 70px;
 }
 
 /* ------------------- NAV --------------------- */
