@@ -1,15 +1,6 @@
-/* ------------------- FONTS --------------------- */
+/* ------------------- GENERAL --------------------- */
 
 @import url("https://fonts.googleapis.com/css2?family=Jost&family=Roboto&family=Rubik:wght@500&display=swap%27");
-
-/* 
-font-family: 'Jost', sans-serif;
-font-family: 'Roboto', sans-serif; 
-font-family: "Hiragino Sans", "Jost", sans-serif;
-font-family: "Rubik", sans-serif;
-*/
-
-/* ------------------- GENERAL --------------------- */
 
 * {
   padding: 0;
